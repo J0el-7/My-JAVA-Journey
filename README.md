@@ -1,2 +1,2 @@
-# My-JAVA-Journey
+# My-JAVA-Journey☕️
 Exercícios e projetos do curso Java Completo!
