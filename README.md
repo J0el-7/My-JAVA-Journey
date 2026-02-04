@@ -39,7 +39,7 @@ My-JAVA-Journey
 
 └── src
 
-└── Main.java
+└── section1.Main.java
 
 
 ## 🚀 Technologies Used
