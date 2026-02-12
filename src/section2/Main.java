@@ -5,13 +5,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("How old are you?");
+        System.out.println("Digit two numbers:");
 
         Scanner sc = new Scanner(System.in);
 
-        int x = sc.nextInt();
+        int a =  sc.nextInt();
+        int b = sc.nextInt();
+        int sum = a + b;
 
-        System.out.println("You have: " + x + " years old.");
+        System.out.println("Soma = " + sum);
 
         sc.close();
     }
